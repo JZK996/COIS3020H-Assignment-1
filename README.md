@@ -1,6 +1,6 @@
-# COIS3020H: Data Structures and Algorithms II, Assignment 1
+# Basic Graph Operations and Methods in C# 
 
-**Project Title:** Graph Operations and Methods in C# 
+**Done For:**  COIS3020H: Data Structures and Algorithms II, Assignment 1, Trent University
 
 **Technology:** C#, Data Structures, Algorithms
 
